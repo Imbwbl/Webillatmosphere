@@ -76,7 +76,7 @@
     position: relative;
     text-align: center;
     text-decoration: none;
-    transition: color 100ms;
+    transition: color 101ms;
     vertical-align: baseline;
     user-select: none;
     -webkit-user-select: none;
